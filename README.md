@@ -1,2 +1,2 @@
 # Switch
-Condicional Switch
+Sample use conditional Switch
